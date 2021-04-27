@@ -28,6 +28,7 @@ Good luck.
 - Command Line
 - Linux
   - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+  - [How to install Windows Subsystem for Linux on Windows 10](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
 - Python
   - [Python Documentation](https://www.python.org/doc/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
@@ -37,10 +38,9 @@ Good luck.
 - DevOps Theory
   - [Git](https://git-scm.com/docs)
     - [Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
+    - [Working with forks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 - Clouds
-  - [Type of Cloud](file:///C:/Users/franc/Dropbox/Francis%202021/Cloud%20Devops/Differences%20between%20Cloud%20Computing.pdf)
-
-
+  - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
