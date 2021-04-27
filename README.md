@@ -36,6 +36,7 @@ Good luck.
     - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
 - DevOps Theory
   - [Git](https://git-scm.com/docs)
+    - [Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
